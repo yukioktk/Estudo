@@ -3,7 +3,7 @@ def soma(x, y):
 
 print (soma(10, 20))
 print (soma(-20, 100))
-print(soma(20 * 32, soma(3, 4)))
+print (soma(20 * 32, soma(3, 4)))
 
 
 def multiplica(x, y, z):
